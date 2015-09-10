@@ -1,5 +1,9 @@
 Hello World!
 Testing
 testing 2
+<<<<<<< HEAD
 
 got it first
+=======
+Do the goldbond jingle
+>>>>>>> 876c5f5a8fe60cc75466c025c0aa2cb6bb612798
